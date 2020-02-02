@@ -1,5 +1,7 @@
 /*
-
+        https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators
+        
+        
         Atribuição	                x = y	x = y
         Atribuição de adição	    x += y	x = x + y
         Atribuição de subtração	    x -= y	x = x - y
