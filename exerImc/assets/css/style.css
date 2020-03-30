@@ -66,4 +66,9 @@ form button:active {
     color: black;
 }
 
-    
+.paragrafo-resultado, .bad{
+    background-color: rgb(109, 255, 182);
+}
+.bad{
+    background-color: rgb(255, 150, 150);
+}
