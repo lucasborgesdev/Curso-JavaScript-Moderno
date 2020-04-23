@@ -6,6 +6,7 @@ const pessoa = {
 // for classico geralmente com interaveis (arrays ou strings);
 // for in - retorna o indice ou chave (string, array ou objetos);
 // for of - retorna o valor de si(interaveis, arrays ou string);
+
 for (let chave of pessoa) {
   console.log(chave, pessoa)
 }
