@@ -12,5 +12,6 @@ console.log(pessoa.nome);
 console.log(pessoa['nome']);
 
 for (let chave in pessoa) {
-    console.log(chave, pessoa[chave]);
+    console.log(chave, pessoa[chave]);,
+    
 }
