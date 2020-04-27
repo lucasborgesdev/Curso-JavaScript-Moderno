@@ -65,3 +65,10 @@ form button:active {
     background: white;
     color: black;
 }
+.relogio{
+    font-size: 3em;
+}
+
+.pausado {
+    color: red;
+}
